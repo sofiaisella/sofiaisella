@@ -4,4 +4,4 @@
   </a>
 </p>
 <div align="center">
-  <a href="https://war-paint.atabook.org/">NEW ATABOOK</a> ￴￴￴￴￴￴ ￴￴￴￴￴￴ 
+  <a href="https://war-paint.atabook.org/">ATABOOK</a> ￴￴￴￴￴￴ ￴￴￴￴￴￴ 
